@@ -1,2 +1,3 @@
 My test 2 doc
-changed somthing in documet 2 in test2 
+changed somthing in documet 2 in test2
+ 3rd change something in docmenr 2 in test2
